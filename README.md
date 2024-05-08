@@ -1,5 +1,5 @@
 Project Overview: 
-Utilizes R to analyze insurance claims data from 500 policies, applying a conservative premium-setting formula. Employs non-parametric estimates, bootstrapping, MLE, and Monte Carlo simulations to refine predictions and manage financial outliers.
+Utilizes R to analyze insurance claims data, applying a conservative premium-setting formula. Employs non-parametric estimates, bootstrapping, MLE, and Monte Carlo simulations to refine predictions and manage financial outliers.
 
 Key Features: 
 
