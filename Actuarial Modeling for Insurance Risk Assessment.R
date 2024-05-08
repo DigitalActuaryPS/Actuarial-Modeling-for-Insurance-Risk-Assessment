@@ -1,10 +1,10 @@
 #Reading entire dataset
-Data <- read.csv("C:/Users/Margashi/OneDrive - City, University of London/Desktop/CS2/CS2_Coursework/CW2_Group_SMM048_23_24_Data.csv")
+Data <- read.csv("C:\Users\shahp\OneDrive\Desktop\Bayes\CS2\Data.csv")
 
 # Setting seed for reproducibility
 set.seed(123)
 
-# Extracting the primary data for Group 4 - dataset4
+# Extracting the primary data in dataset4
 dataset_4 = Data[, c(1, 5)]
 
 # Converting string data into numeric 
@@ -197,7 +197,7 @@ cat("Estimated Pure Premium based on the best-fit distribution:", pure_premium, 
 #B1----------------------------------------------------------------------------->
 #Redoing above steps for the new dataset
 
-# Extracting additional data for Group 4 - extradataset4
+# Extracting additional data in extradataset4
 extra_dataset_4 <- Data[, c(1, 20)]
 
 # Converting string data into numeric
